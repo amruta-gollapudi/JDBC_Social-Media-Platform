@@ -15,7 +15,7 @@ It allows users to register, log in, and manage their profiles through a simple 
 - **Java** – Programming language used for application development.
 - **JDBC** – For interacting with the MySQL database.
 - **MySQL** – Relational database management system for storing user data.
-- **Swing** – Java library for building the graphical user interface.
+- **Java GUI** – Built with Swing, Java library for building the graphical user interface.
 
 
 ## Usage
